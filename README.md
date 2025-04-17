@@ -1,6 +1,7 @@
 ## 📄 Multi-Modal RAG PDF Chatbot
 
 A Streamlit application that allows you to **upload a PDF**, ask questions about its content, and get accurate responses using a **Multi-Modal Retrieval-Augmented Generation (RAG)** pipeline powered by **Groq's Gemma-2 9B model**.
+you can try it out this application here: https://huggingface.co/spaces/Waris01/Multi-Model-Pdf-Chat
 
 ---
 
